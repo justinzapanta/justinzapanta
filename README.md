@@ -1,5 +1,5 @@
 
-<div style="text-align">
+<div style="text-align: center ;">
   
 ![](https://github.com/justinzapanta/justinzapanta/blob/main/github-header-image.png)
 
