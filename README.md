@@ -1,7 +1,7 @@
 
 <div style="text-align:center">
 
-![Banner Image]([image-url](https://github.com/justinzapanta/justinzapanta/blob/main/github-header-image.png))
+![Banner Image]([image-url](https://github.com/justinzapanta/justinzapanta/blob/main/github-header-image.png)
 
 </div>
 
